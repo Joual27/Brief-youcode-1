@@ -1,0 +1,27 @@
+.header-area{
+    background-color: black;
+}
+
+.featured-cars{
+    margin-top: 5rem;
+}
+
+.contact{
+    min-height: 85vh;
+}
+
+.foot-email-box{
+    margin: 2rem 0.2rem;
+}
+
+
+.content h1{
+    color: white;
+    left: 20%;
+    z-index: 1;
+    position: absolute;
+    margin-top: 50vh;
+    font-size: 3rem;
+    text-shadow: 1px 1px 1px white;
+}
+
